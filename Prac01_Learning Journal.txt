@@ -1,0 +1,48 @@
+Prac 01: Introduction & Initial Development of HarmonyHub
+Date:
+2025/1/23 3:00 PM - 5:00 PM
+2025/1/24 11:00 AM - 1:00 PM
+2025/1/26 4:00 PM - 6:00 PM
+
+Learning Activities & Resources
+This week, I focused on the initial development of HarmonyHub, a project designed to combat workplace bullying by providing tools, resources, and education to organizations and individuals. The primary activities included:
+
+Research & Planning:
+Understanding workplace bullying: Its causes, impact, and prevention strategies.
+Exploring existing solutions and identifying gaps that HarmonyHub can address.
+Drafting goals for the project, which include providing educational resources, reporting mechanisms, and support channels.
+
+Tools & Resources Used:
+Articles and case studies on workplace bullying and its impact.
+Wireframe tools like Figma for prototyping.
+
+Concepts Reviewed:
+Navigation patterns in mobile apps (e.g., bottom navigation bar, drawer menus).
+Best practices for user input validation and data security.
+Estimated Hours
+Total Time Spent: 3 hours.
+2 hours researching workplace bullying and existing solutions.
+2 hours re-learn basic knowledge about html and css.
+2 hours designing wireframes and layouts.
+
+Content Insights
+
+Addressing Workplace Bullying:
+HarmonyHub has the potential to make a real impact by providing individuals and organizations with accessible tools and resources.
+Building trust and ensuring user privacy are critical components for the success of the platform.
+
+Designing for Accessibility:
+Simplicity and usability in design are key to ensuring the app is approachable for users of all backgrounds.
+
+Development Challenges:
+Data security and anonymity must be carefully considered in the app’s development, particularly for the reporting mechanism.
+Career/Employability/Learning Insights
+
+Relevance to Career Goals:
+Developing HarmonyHub is an opportunity to deepen my technical skills in mobile app development and UI/UX design while addressing an important social issue.
+
+Future Applications:
+The knowledge gained from this project—such as data security, mobile app design, and project management—can be applied to other app development initiatives.
+
+Personal Growth:
+This project combines technical and creative problem-solving, encouraging me to think critically about real-world issues and how technology can drive meaningful change.
